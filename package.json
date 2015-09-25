@@ -1,12 +1,12 @@
 {
   "name": "toggle-css",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "insert and remove a string of css in the <head>",
   "main": "index.js",
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/ExoZone/toggle-css.git"
+    "url": "git://github.com/ExoZoneDev/toggle-css.git"
   },
   "homepage": "https://github.com/ExoZoneDev/toggle-css",
   "keywords": [
